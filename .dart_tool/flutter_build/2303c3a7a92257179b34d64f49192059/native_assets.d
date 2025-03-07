@@ -1,0 +1,1 @@
+ C:\\Users\\PEDHAPAY\\StudioProjects\\pedha_pay_new_retailer\\.dart_tool\\flutter_build\\2303c3a7a92257179b34d64f49192059\\native_assets.yaml: 

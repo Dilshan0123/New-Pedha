@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pedha_pay_new_retailer.iml" filepath="$PROJECT_DIR$/pedha_pay_new_retailer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/pedha_pay_new_retailer_android.iml" filepath="$PROJECT_DIR$/android/pedha_pay_new_retailer_android.iml" />
+    </modules>
+  </component>
+</project>
